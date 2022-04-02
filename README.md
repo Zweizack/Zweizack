@@ -16,6 +16,7 @@
     "CS 1.5",
     "C&C: Generals Zero Hour",
     "Cossacks: The Art of War",
+    "Age of Empires IV",
     "Terraria"
   ]
 }
