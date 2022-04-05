@@ -7,7 +7,6 @@
   "firstName": "John",
   "lastName": "Doe",
   "age": 21,
-  "platform": "HackerOne",
   "jobTitle": "Hunter",
   "favoriteSeries": "Person of Interest",
   "favoriteGames": [
